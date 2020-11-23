@@ -1,0 +1,135 @@
+f*{
+		margin: 0px;
+		padding: 0px;
+		}
+	body{
+		background-color:#e6e6ff;
+		
+	}
+	.tong{
+		background-image: url('../css../script/img/nen.jpg');
+		width: 450px;
+		height: 600px;
+		margin: auto;
+		border-radius: 8px;
+		margin-top: 100px;
+	}
+	.menu{
+		background-color: white;
+		width: 450px;
+		height: 50px;
+
+	}
+	.menu-logo{
+		display: inline-block;
+		line-height: 50px;
+		float: left
+	}
+	.menu-logo>img{
+		width: 50%;
+		height: 50%;
+		margin-top: 15px;
+		margin-left: 5px;
+		
+	}
+	
+	.menu-right{
+		float: right;
+		line-height: 50px;
+	}
+	.menu-right a{
+		float: right;
+		line-height: 50px;
+		margin-right: 5px;
+	}
+	.header_atm{
+
+		
+		width: 450px;
+		height: 150px;
+		margin: auto;
+	}
+	.header_atm img{
+		border-radius: 50px;
+		width: 70px;
+		height: 70px;
+		margin-left: 200px;
+	}
+	.header_atm>h3{
+		 text-align: center;
+		
+		 color: white;
+	}
+	.header_atm>hr{
+		background-color: white;
+		width:300px; 
+		margin: auto;
+		
+	}
+	.header_atm-bt{
+		width: 300px;
+		margin: auto;
+		
+	}
+	.text1{
+		width: 100px;
+		
+		float: left;
+		color: white;
+		font-size: 10px;
+		
+	}
+	.text2{
+		width: 100px;
+		float: right;
+		color: white;
+		font-size: 12px;
+		
+	}
+	.center_atm{
+		width: 450px;
+		/*padding-top: 10px;*/
+		height: 400px;
+		background-color: white;
+
+	}
+	.center1{
+		width: 60%;
+		margin:auto;
+		margin-bottom: 20px;
+
+	}
+	.dongke{
+		margin-top: 350px;
+		background-color: red;
+	}
+	
+	.text-center {
+    text-align: center;
+    padding-top: 30px;
+}
+	.h6, h6 {
+    font-size: 1.25rem;
+    color: red;
+}
+
+
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: blue;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: blue;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: blue;
+}
+
+
+
+/* style with bootstrap */
+
+	
