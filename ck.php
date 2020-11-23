@@ -83,7 +83,7 @@ $row=$run->fetch_assoc();
 			    	Số tiền<br>
 			    	<input type="number" name="money">
 			    	<br>
-			    	Nội dung chuyển khoản<br>
+			    	Nội Dung Chuyển Khoản<br>
 			    	<input type="text" name="description" value="<?= $_SESSION['row']['name'] ?> chuyen khoan">
 			    	<br><br>
 			    	
